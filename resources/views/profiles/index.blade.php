@@ -5,8 +5,9 @@
         <div class="row">
             <div class="col-3 p-5">
                 <img
-                    src="https://scontent-otp1-1.cdninstagram.com/v/t51.2885-19/s150x150/83213956_3360255157381124_5752385570823208960_n.jpg?_nc_ht=scontent-otp1-1.cdninstagram.com&_nc_ohc=7SivNZVyttkAX_9BFww&oh=c69b90ebe9a5d488567f240c3b546ae4&oe=5ED1E446"
-                    alt="FCC Logo" class="rounded-circle">
+                    src="/storage/{{ $user->profile->image }}"
+                    .
+                    alt="FCC Logo" class="rounded-circle w-100">
             </div>
             <div class="col-9 pt-5">
                 <div class="d-flex justify-content-between align-items-baseline"><h1>{{ $user->username }}</h1>
