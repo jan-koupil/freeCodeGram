@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d45920f-590a-482e-acf3-a4ae80060c6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_05_20_204212_creates_profile_user_pivot_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590003948471</updated>
-      <workItem from="1590003950196" duration="4675000" />
+      <workItem from="1590003950196" duration="5016000" />
     </task>
     <servers />
   </component>
@@ -180,9 +175,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.520.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590007613137" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590007914753">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590009221820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.520.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590007914753" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.520.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590009221820" />
   </component>
 </project>
