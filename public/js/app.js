@@ -1940,7 +1940,7 @@ __webpack_require__.r(__webpack_exports__);
   },
   computed: {
     buttonText: function buttonText() {
-      return this.status ? "Follow" : "Unfollow";
+      return this.status ? "Unfollow" : "Follow";
     }
   }
 });
