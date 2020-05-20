@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/freecodegram-steps.iml" filepath="$PROJECT_DIR$/.idea/freecodegram-steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/freeCodeGram.iml" filepath="$PROJECT_DIR$/.idea/freeCodeGram.iml" />
     </modules>
   </component>
 </project>
